@@ -1,7 +1,7 @@
 # Auto-Search
 
-Is your college forcing you to give tests online via google/ microsoft forms?
-Must be tired of copy-pasting each question and searching it on google.com, right?
+*Is your college forcing you to give tests online via google/ microsoft forms?
+Must be tired of copy-pasting each question and searching it on google.com, right?*
 
 This python script fetches questions from the forms and searches for them itself, though it does not returns the correct answer.
 It simply searches for each question on google in a new tab. You can go through the results on the tab and discover the right answer yourself.
